@@ -20,7 +20,10 @@
 - 🏗 **Frontend Development** (HTML, CSS, JavaScript)  
 - 🐍 **Python for Automation & Web Development**  
 - 🎯 **Problem Solving & DSA**  
-- 🔥 **Git & GitHub**  
+- 🔥 **Git & GitHub**
+
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+
 
 
 
