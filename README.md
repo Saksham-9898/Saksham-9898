@@ -9,12 +9,12 @@
 - 🌐 **Frontend Web Development (HTML, CSS, JavaScript)**
 - 🧠 **Problem Solving & Python Scripting**
 
----
+
 
 ### 👨‍💻 My Projects:
 🔗 Check out all my repositories on **[GitHub](https://github.com/Saksham-9898)**!  
 
----
+
 
 ### 💬 Ask Me About:
 - 🏗 **Frontend Development** (HTML, CSS, JavaScript)  
@@ -22,7 +22,7 @@
 - 🎯 **Problem Solving & DSA**  
 - 🔥 **Git & GitHub**  
 
----
+
 
 ### 📫 Get in Touch:
 📩 **Email:** saksham9879@gmail.com  
@@ -30,7 +30,7 @@
 💼 **LinkedIn:** [Saksham Sharma](https://www.linkedin.com/in/saksham---sharma/)  
 📷 **Instagram:** [_saksham_.0007](https://www.instagram.com/_saksham_.0007/?igsh=cdr0azf6y29tzgj4#)  
 
----
+
 
 ### 🚀 Tech Stack:
 <p align="left">
@@ -48,7 +48,7 @@
   </a>
 </p>
 
----
+
 
 ### 📊 GitHub Stats:
 <div align="center">
