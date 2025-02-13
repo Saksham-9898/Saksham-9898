@@ -14,6 +14,7 @@
 ### 👨‍💻 My Projects:
 🔗 Check out all my repositories on **[GitHub](https://github.com/Saksham-9898)**!  
 
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 
 ### 💬 Ask Me About:
@@ -21,8 +22,6 @@
 - 🐍 **Python for Automation & Web Development**  
 - 🎯 **Problem Solving & DSA**  
 - 🔥 **Git & GitHub**
-
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 
 
