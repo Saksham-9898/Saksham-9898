@@ -6,7 +6,7 @@
 
 ### 🌱 Currently Learning:
 - 💻 **Data Structures & Algorithms (DSA)**
-- 🌐 **Frontend Web Development (HTML, CSS, JavaScript)**
+- 🌐 **Frontend Web Development (HTML, CSS, JavaScript, React)**
 - 🧠 **Problem Solving & Python Scripting**
 
 
